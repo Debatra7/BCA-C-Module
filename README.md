@@ -1,6 +1,6 @@
 # Solutions Of All C Programming Problems in Bankura University BCA Course Module
 
-## C Programming Problems
+## C Programming Problems (1-30)
 
 1. Develop a program to solve simple computational problems using arithmetic expressions and the use of each operator leading to the simulation of a commercial calculator (No built-in math function).
 1. Write a C program to find all odd numbers between 150 to 300.
@@ -52,7 +52,7 @@
 
 1. Design and develop a C program to read a year as an input and find whether it is leap year or not. Also consider end of the centuries.
 
-1. Draw the flowchart and Write a C Program to compute Sin(x) using Taylor series approximation given by Sin(x) = x - (x3/3!) + (x5/5!) - (x7/7!) + …….
+1. Draw the [Flowchart](./q12_flowchart.svg) and Write a C Program to compute Sin(x) using Taylor series approximation given by Sin(x) = x - (x3/3!) + (x5/5!) - (x7/7!) + …….
 
 1. Design develop and Write c program compute cosine (x) .(hint: 1 - (1/2!)x2 + (1/4!)x4 - (1/6!)x6 ) using Taylor series.
 
